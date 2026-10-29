@@ -1,0 +1,25 @@
+# Ambientes virtuais e cache Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Documentos auxiliares locais / materiais de apoio
+*.pdf
+
+# Credenciais e variáveis de ambiente
+.env
+*.key
+*.pem
+credentials.json
